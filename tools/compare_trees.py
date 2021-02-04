@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 """
 Robust comparison of two trees using dendropy.
 
