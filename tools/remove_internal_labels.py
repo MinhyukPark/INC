@@ -1,5 +1,3 @@
-#!/usr/bin/python
-
 import argparse
 import dendropy
 import sys

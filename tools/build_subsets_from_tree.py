@@ -1,5 +1,3 @@
-#!/usr/bin/python
-
 """
 Build subsets using centroid decomposition from PASTA
 
